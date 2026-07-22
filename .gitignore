@@ -1,0 +1,19 @@
+# Tệp hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Tệp tạm và nhật ký
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Tệp cấu hình có thể chứa bí mật
+.env
+.env.*
+*.key
+*.pem
+
+# Thư mục công cụ
+.vscode/
+.idea/
